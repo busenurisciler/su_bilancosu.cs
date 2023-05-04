@@ -1,0 +1,58 @@
+C:\Users\Rıfat Uzunhasan\Desktop\Çalışmalar\su_bilancosu\su_bilancosu\bin\Debug\su_bilancosu.exe.config
+C:\Users\Rıfat Uzunhasan\Desktop\Çalışmalar\su_bilancosu\su_bilancosu\bin\Debug\su_bilancosu.exe
+C:\Users\Rıfat Uzunhasan\Desktop\Çalışmalar\su_bilancosu\su_bilancosu\bin\Debug\su_bilancosu.pdb
+C:\Users\Rıfat Uzunhasan\Desktop\Çalışmalar\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.csprojAssemblyReference.cache
+C:\Users\Rıfat Uzunhasan\Desktop\Çalışmalar\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.Form1.resources
+C:\Users\Rıfat Uzunhasan\Desktop\Çalışmalar\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.Properties.Resources.resources
+C:\Users\Rıfat Uzunhasan\Desktop\Çalışmalar\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.csproj.GenerateResource.cache
+C:\Users\Rıfat Uzunhasan\Desktop\Çalışmalar\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.csproj.CoreCompileInputs.cache
+C:\Users\Rıfat Uzunhasan\Desktop\Çalışmalar\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.exe
+C:\Users\Rıfat Uzunhasan\Desktop\Çalışmalar\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.pdb
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.csproj.ResolveComReference.cache
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.Form1.resources
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.Form2.resources
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.Properties.Resources.resources
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.csproj.GenerateResource.Cache
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\su_bilancosu.exe.config
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\su_bilancosu.exe
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\su_bilancosu.pdb
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\mscorlib.dll
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\System.Net.Http.dll
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\System.Net.Http.xml
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\normidna.nlp
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\normnfc.nlp
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\normnfd.nlp
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\normnfkc.nlp
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\normnfkd.nlp
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.exe
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.pdb
+C:\Users\BUSENUR\Desktop\su_bilancosu\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.csprojResolveAssemblyReference.cache
+F:\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\su_bilancosu.exe.config
+F:\su_bilancosu\su_bilancosu\su_bilancosu\obj\Debug\Interop.AcroPDFLib.dll
+F:\su_bilancosu\su_bilancosu\su_bilancosu\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\su_bilancosu\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.csproj.ResolveComReference.cache
+F:\su_bilancosu\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.exe
+F:\su_bilancosu\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.pdb
+F:\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\su_bilancosu.exe
+F:\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\su_bilancosu.pdb
+F:\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\mscorlib.dll
+F:\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\System.Net.Http.dll
+F:\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\System.Net.Http.xml
+F:\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\tr\mscorlib.resources.dll
+F:\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\normidna.nlp
+F:\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\normnfc.nlp
+F:\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\normnfd.nlp
+F:\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\normnfkc.nlp
+F:\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\normnfkd.nlp
+F:\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\Interop.AcroPDFLib.dll
+F:\su_bilancosu\su_bilancosu\su_bilancosu\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\su_bilancosu\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.csprojResolveAssemblyReference.cache
+F:\su_bilancosu\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.Form1.resources
+F:\su_bilancosu\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.Form2.resources
+F:\su_bilancosu\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.Properties.Resources.resources
+F:\su_bilancosu\su_bilancosu\su_bilancosu\obj\Debug\su_bilancosu.csproj.GenerateResource.Cache
